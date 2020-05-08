@@ -1,0 +1,21 @@
+
+.navbar-nav li a:hover{
+    color: #fff !important;
+}
+.navbar-nav li:hover{
+    background-color:#316dc3;
+    color:#fff !important; 
+    border-radius: 25px;
+    padding: 0px;
+}
+.active{
+    background-color:#316dc3;
+border-radius:25px ;
+}
+.active a{
+    color: #fff !important;
+}
+
+.col-xs-2{
+right: 20%;
+}
